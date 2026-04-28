@@ -2,6 +2,7 @@
 Built with performance and simplicity in mind, Site Insights Pro offers a clean and intuitive admin interface, making it easy for administrators, editors, and site managers to access the data that matters most.
 
 **Key Features**
+
 Real-time and historical visitor analytics
 Dedicated dashboard page within the WordPress admin area
 Lightweight architecture optimized for performance
@@ -13,6 +14,7 @@ Easy to extend, customize, and integrate into any WordPress project
 Shortcode Usage
 
 **Display the analytics dashboard anywhere on your site using the following shortcodes:**
+
 [site_insights_dashboard capability="manage_options"]
 [site_insights_dashboard theme="dark"]
 [site_insights_dashboard theme="dark" capability="editor"]
@@ -21,6 +23,7 @@ capability – Restricts dashboard access to users with a specific WordPress cap
 theme – Allows switching between available dashboard themes (e.g., dark).
 
 **Why Choose Site Insights Pro?**
+
 Site Insights Pro is ideal for developers, agencies, and site owners who need a privacy-friendly, self-hosted analytics solution. It is lightweight, easy to deploy.
 Whether you're managing a personal blog, an e-learning platform, or a business website, Site Insights Pro gives you the insights you need—right where you need them.
 
