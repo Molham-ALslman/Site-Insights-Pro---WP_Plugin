@@ -16,8 +16,11 @@ Shortcode Usage
 **Display the analytics dashboard anywhere on your site using the following shortcodes:**
 
 [site_insights_dashboard capability="manage_options"]
+
 [site_insights_dashboard theme="dark"]
+
 [site_insights_dashboard theme="dark" capability="editor"]
+
 **Shortcode Parameters**
 capability – Restricts dashboard access to users with a specific WordPress capability or role.
 theme – Allows switching between available dashboard themes (e.g., dark).
